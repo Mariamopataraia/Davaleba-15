@@ -39,4 +39,25 @@ for (let i = 0; i < 101; i++) {
     console.log(`for loop index ${i}`);
 };
 
+
 // Task#3
+const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+let i = 0;
+while (i < 50) {
+    i++
+    console.log(`numb: ${i}`);
+};
+
+
+// Task#4
+// let result = `150`;
+let iresult = 0;
+
+do {
+    // i = i + 1;
+    // result = result + i;
+    iresult++
+    console.log(`num: ${[iresult]}`);
+}
+while(iresult < 150);
