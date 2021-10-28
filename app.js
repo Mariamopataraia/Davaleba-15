@@ -35,7 +35,7 @@ switch (currentDay) {
     
 
 // Task#2
-for (let i = 0; i < 101; i++) {
+for (let i = 0; i < 100; i++) {
     console.log(`for loop index ${i}`);
 };
 
@@ -68,3 +68,8 @@ for (let i = 0; i < 1000; i++){
     numVar.push(i * i)
 };
     console.log(numVar);
+
+// Task#6
+
+let numAray = [10, 9, 9, 8, 8, 11, 8, 0, 9, 1];
+for (let i = 0; i < 11)
