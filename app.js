@@ -61,3 +61,10 @@ do {
     console.log(`num: ${[iresult]}`);
 }
 while(iresult < 150);
+
+// Task#5
+const numVar = [];
+for (let i = 0; i < 1000; i++){
+    numVar.push(i * i)
+};
+    console.log(numVar);
