@@ -71,5 +71,5 @@ for (let i = 0; i < 1000; i++){
 
 // Task#6
 
-let numAray = [10, 9, 9, 8, 8, 11, 8, 0, 9, 1];
-for (let i = 0; i < 11)
+// let numAray = [10, 9, 9, 8, 8, 11, 8, 0, 9, 1];
+// for (let i = 0; i < 11)
